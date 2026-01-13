@@ -134,7 +134,7 @@ INSTALLATION & USAGE
 --------
 Clone the repository and install dependencies:
 
-git clone https://github.com/yourusername/fvg-trading-system.git
+git clone https://github.com/Aldous6/fvg-trading-system.git
 cd fvg-trading-system
 pip install -r requirements.txt
 
